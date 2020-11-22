@@ -16,4 +16,4 @@
 
 커밋 메시지 규칙
 - git commit -m "clear 년도_출제회사_N차_Q문제번호"
-- 예시 -> clear 2020_kakao_1st_q1 (지수의 경우 clear bakjoon_1st_q1)
+- 예시 -> clear 2020_kakao_1st_q1 (지수의 경우 clear baekjoon_1st_q1)
